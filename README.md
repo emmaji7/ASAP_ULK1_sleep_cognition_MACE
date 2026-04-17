@@ -88,8 +88,6 @@ Key packages include:
 - ggplot2
 - patchwork
 
-Detailed session information is provided in:
-`session_info.txt`
 
 ---
 
